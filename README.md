@@ -19,3 +19,12 @@
 ## Code Golfing
 - [code.golf](https://www.code.golf)
 - [Binary Golf Grand Prix](https://tmpout.sh/bggp/3/)
+
+## Computational Mathematics
+- [ProjectEuler](https://projecteuler.net/)
+
+## Machine Learning
+- [Kaggle](https://www.kaggle.com/)
+
+## Encryption
+- [CryptoPals](https://cryptopals.com/)
