@@ -28,3 +28,27 @@
 
 ## Encryption
 - [CryptoPals](https://cryptopals.com/)
+
+## Compression
+- [Hutter Prize](http://prize.hutter1.net/)
+
+## Bioinformatics
+- [Rosalind](https://rosalind.info/)
+
+## Hardware Design
+- [NandGame](https://nandgame.com/)
+
+## Multithreading
+- [Deadlock Empire](https://deadlockempire.github.io/)
+
+## Obfuscation
+- [IOCCC](https://www.ioccc.org/)
+
+## Smart Contract Security
+- [Capture the Ether](https://capturetheether.com/)
+
+## Machine Learning Security
+- [AI Village Capture the Flag](https://www.kaggle.com/competitions/ai-village-ctf)
+
+## Game Development
+- [Global Game Jam](https://globalgamejam.org/)
