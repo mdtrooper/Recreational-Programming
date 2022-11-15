@@ -1,4 +1,5 @@
 # Recreational-Programming
+The following is a list of puzzles, games, and challenges related to different fields within computer science, because programming and learning doesn't have to be boring! Feel free to submit additions or categories to the list as its definitely not complete.
 
 ## Competitive Programming
 - [AdventOfCode](https://www.adventofcode.com)
