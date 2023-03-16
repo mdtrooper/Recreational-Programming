@@ -36,6 +36,10 @@ Solve mathematical based problems with code.
 Train the best machine learning algorithm to fit some given data.
 - [Kaggle](https://www.kaggle.com/)
 
+## GPU Programming
+Solve puzzles that involve GPU programming.
+- [GPU Puzzles](https://github.com/srush/GPU-Puzzles)
+
 ## Encryption
 Implement and break cryptography algorithms.
 - [CryptoPals](https://cryptopals.com/)
