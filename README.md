@@ -17,7 +17,9 @@ Hack into vulnerable programs, websites, or servers to retrieve flags. Involves 
 - [HackTheBox](https://www.hackthebox.com)
 - [pwnable.kr](https://www.pwnable.kr)
 - [pwnable.tw](https://pwnable.tw)
+- [pwnable.xyz](https://pwnable.xyz/challenges/)
 - [OverTheWire](https://www.overthewire.org)
+- [Pwn Adventure](https://www.pwnadventure.com/)
 
 ## Reverse Engineering
 Reverse engineer binary programs to gain unauthorised access.
