@@ -21,6 +21,11 @@ Hack into vulnerable programs, websites, or servers to retrieve flags. Involves 
 - [OverTheWire](https://www.overthewire.org)
 - [Pwn Adventure](https://www.pwnadventure.com/)
 
+## Web Hacking
+Use multiple techniques to bypass website security
+- [prompt(1) to win](https://prompt.ml/)
+- [alert(a) to win](https://alf.nu/alert1)
+
 ## Reverse Engineering
 Reverse engineer binary programs to gain unauthorised access.
 - [CrackMes](https://crackmes.one)
