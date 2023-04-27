@@ -74,6 +74,7 @@ Hack into ethereum smart contracts.
 ## Machine Learning Security
 Extract data and manipulate machine learning models.
 - [AI Village Capture the Flag](https://www.kaggle.com/competitions/ai-village-ctf)
+- [GPT Prompt Injection](https://ggpt.43z.one/)
 
 ## Game Development
 Develop a game given specified constraints.
