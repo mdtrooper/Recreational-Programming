@@ -25,11 +25,13 @@ Hack into vulnerable programs, websites, or servers to retrieve flags. Involves 
 Use multiple techniques to bypass website security
 - [prompt(1) to win](https://prompt.ml/)
 - [alert(a) to win](https://alf.nu/alert1)
+- [Hack This Site](https://www.hackthissite.org/)
 
 ## Reverse Engineering
 Reverse engineer binary programs to gain unauthorised access.
 - [CrackMes](https://crackmes.one)
 - [Microcorruption](https://microcorruption.com/login)
+- [Reversing.kr](http://reversing.kr/)
 
 ## Code Golfing
 Solve a certain problem with the shortest possible source code (counted by characters).
@@ -71,10 +73,12 @@ Understand and break multithreadded programs.
 ## Obfuscation
 Obfuscate the source code to a program as much as possible.
 - [IOCCC](https://www.ioccc.org/)
+- [The Underhanded C Contest](https://www.underhanded-c.org/)
 
 ## Smart Contract Security
 Hack into ethereum smart contracts.
 - [Capture the Ether](https://capturetheether.com/)
+- [Ethernaut](https://ethernaut.openzeppelin.com/)
 
 ## Machine Learning Security
 Extract data and manipulate machine learning models.
@@ -84,3 +88,4 @@ Extract data and manipulate machine learning models.
 ## Game Development
 Develop a game given specified constraints.
 - [Global Game Jam](https://globalgamejam.org/)
+- [Ludum Dare](https://ludumdare.com/)
